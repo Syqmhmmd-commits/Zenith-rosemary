@@ -35,3 +35,11 @@ Release kernel untuk **Redmi Note 10S / POCO M5s (Rosemary)** berbasis **Vendor 
 3. **Pilih varian**:
    - Mau root? Flash `Zenith-Rosemary-ksun-*.zip`
    - Mau stock? Flash `Zenith-Rosemary-non-*.zip`
+<<<<<<< HEAD
+=======
+
+## 💬 Diskusi & Support
+
+- **XDA Thread:** [Zenith Kernel for Rosemary](https://xdaforums.com/t/kernel-4-14-zenith-kernel-for-rosemary-ksu-non-ksu.4804961/)
+
+   ```bash
